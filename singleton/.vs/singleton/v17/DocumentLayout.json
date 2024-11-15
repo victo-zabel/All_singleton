@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\2\\All_singleton\\singleton\\",
+  "WorkspaceRootPath": "D:\\All_singleton\\singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|c:\\users\\conrive\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u043F\\\u0443\u043F 02.01\\2\\all_singleton\\singleton\\singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|c:\\users\\conrive\\\u0443\u0447\u0435\u0431\u0430\\\u0443\u043F\\\u0443\u043F 02.01\\2\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,33 +21,30 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Patter_singleton.cs",
-              "DocumentMoniker": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\2\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
+              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
               "RelativeDocumentMoniker": "singleton\\Patter_singleton.cs",
-              "ToolTip": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\2\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
+              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
               "RelativeToolTip": "singleton\\Patter_singleton.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T13:15:32.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\2\\All_singleton\\singleton\\singleton\\Program.cs",
+              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeDocumentMoniker": "singleton\\Program.cs",
-              "ToolTip": "C:\\Users\\Conrive\\\u0423\u0447\u0435\u0431\u0430\\\u0423\u041F\\\u0423\u041F 02.01\\2\\All_singleton\\singleton\\singleton\\Program.cs",
+              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeToolTip": "singleton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T12:22:31.238Z"
+              "WhenOpened": "2024-11-15T12:22:31.238Z",
+              "EditorCaption": ""
             }
           ]
         }
