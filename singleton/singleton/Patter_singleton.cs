@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace singleton
 {
-    internal class Patter_singleton
+    internal class SSSsingleton
     {
-        private static Patter_singleton instance;
+        private static SSSsingleton instance;
 
-        public static Patter_singleton Instance
+        public static SSSsingleton Instance
         {
             get
             {
                 if (instance == null)
                 {
-                    instance = new Patter_singleton();
+                    instance = new SSSsingleton();
                 }
                 return instance;
             }
